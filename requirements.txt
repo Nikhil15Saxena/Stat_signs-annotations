@@ -1,11 +1,5 @@
 streamlit
 pandas
 numpy
-matplotlib
-seaborn
-scikit-learn
-factor_analyzer
-statsmodels
-pydotplus
-graphviz
-xgboost
+plotly
+scipy
